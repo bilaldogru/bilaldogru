@@ -1,18 +1,58 @@
-# 💫 About Me:
-Education: Computer Engineering student at Bursa Technical University.<br><br>Interests: Passionate about Deep Learning, Data Science, and Full-Stack Development.<br><br>Technical Skills: Proficient in Java, C, and Python.<br><br>Experience: Core Team Member at Huawei Student Developers (HSD) and Software Team member at YILDIRIM Electric Vehicles Club.<br><br>Training & Programs: Active participant in Siber Vatan and Veri Okulu.<br><br>Key Projects: Developing "Focusland," a Java-based mobile application, and a Python-based GUI for in-vehicle interfaces.
+<h1 align="center">Merhaba, Ben Bilal! 👋</h1>
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Bilal Doğru) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bilaldogru772@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Apache Groovy](https://img.shields.io/badge/Apache%20Groovy-4298B8.svg?style=for-the-badge&logo=Apache+Groovy&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=bilaldogru&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=bilaldogru&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=bilaldogru&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<h3 align="center">Veri Mühendisliği ve Yazılım Geliştirme Tutkunu | Bilgisayar Mühendisliği Öğrencisi</h3>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=bilaldogru&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 👨‍💻 Benim Hakkımda
+
+- 🎓 **Bursa Teknik Üniversitesi**'nde Bilgisayar Mühendisliği 2. Sınıf öğrencisiyim (GNO: **3.58**).
+- 🎯 Kariyerimi **Veri Bilimi (Data Science)** ve **Veri Mühendisliği (Data Engineering)** alanlarında şekillendirmeyi hedefliyorum.
+- 🚗 **YILDIRIM Elektrikli Araçlar Kulübü** Yazılım Ekibi ve **Huawei Student Developers (HSD)** Core Team üyesiyim.
+- 📚 **Siber Vatan**, **Marmara Üniversitesi Veri Okulu** ve **UpSchool Geleceğin Yetenekleri** programlarında aktif yer alıyorum.
+- ⚡ İlgi alanlarım: Derin Öğrenme, Full-Stack Geliştirme, Gömülü Sistemler ve Oyun Geliştirme.
+
+---
+
+### 🚀 Öne Çıkan Projelerim
+
+* **SANCAR:** Elektrikli araçlar için CustomTkinter (Python) ile geliştirdiğim, hız ve batarya verilerini anlık izleyen telemetri arayüzü.
+* **Focusland:** Öğrencilerin çalışma motivasyonunu ve programlarını yönetmelerini sağlayan Java tabanlı mobil uygulama.
+* **Futbol Hub:** Vanilla JS, Tailwind CSS ve Firebase kullanarak geliştirdiğim gerçek zamanlı, çok oyunculu tarayıcı oyunu.
+* **Ghost of Westeros:** Özel kayıt sistemine (save system) ve optimize edilmiş veri yapılarına sahip C tabanlı metin macera oyunu.
+
+---
+
+### 🛠️ Teknoloji Yığınım
+
+<div align="left">
+  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" />
+</div>
+
+---
+
+### 📊 GitHub İstatistikleri
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bilaldogru&show_icons=true&theme=tokyonight&hide_border=true" alt="Bilal's GitHub stats" height="195"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bilaldogru&theme=tokyonight&hide_border=true" alt="Bilal's GitHub Streak" height="195"/>
+</div>
+
+---
+
+### 🌍 Bana Ulaşın
+
+<div align="left">
+  <a href="https://linkedin.com/in/bilaldogru">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:senin.email.adresin@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
