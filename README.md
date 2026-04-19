@@ -1,16 +1,3 @@
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF5&center=true&vCenter=true&width=500&lines=Merhaba,+Ben+Bilal+%F0%9F%91%8B;Bilgisayar+M%C3%BChendisli%C4%9Fi+%C3%96%C4%9Frencisi;G%C3%B6m%C3%BCl%C3%BC+Sistemler+%26+Veri+Tutkunu" alt="Typing SVG" />
-  </a>
-</div> 
-
-### 🛠️ Teknolojiler & Araçlar
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,html,css,tailwind,firebase,mysql,git,vscode,linux" alt="Yetenekler" />
-  </a>
-</p>
 
 ### 📊 GitHub İstatistiklerim
 
